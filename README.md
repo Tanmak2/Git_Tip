@@ -7,3 +7,4 @@
 3. git commit -m '커밋 메시지' // 스테이징된 파일들의 커밋 메시지 작성 및 커밋
 4. git remote add origin 깃허브주소 // 최초 깃 레파지토리 주소 추가
 5. git push origin main // 커밋 된 파일들 깃허브에 푸시
+  1). fatal refusing to merge unrelated histories 시 git pull origin main --allow-unrelated-histories 후 
